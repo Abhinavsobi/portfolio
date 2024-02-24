@@ -154,3 +154,7 @@ img {
 .card-custom:hover .card-custom-image img{
     transform: scale(1.1);
 }
+
+.projects{
+    height: 400px;
+}
